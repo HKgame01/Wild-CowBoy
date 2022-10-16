@@ -3,7 +3,7 @@ import telebot
 import random
 import ezappwrite
 
-API_KEY = "5750467894:AAHEFuM0kAwebUm0epIvPKD5NU11hJ-5W-8"
+API_KEY = ""
 d = 0
 bot = telebot.TeleBot(API_KEY)
 print("Bot is running!")
